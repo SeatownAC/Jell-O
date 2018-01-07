@@ -1,0 +1,76 @@
+h1 {
+    color: purple;
+    font-size: 24px;
+    text-align: center;
+    background-color: darkgrey;
+
+
+}
+
+h2 {
+    color: green;
+    font-size: 20px;
+    background-image: url("https://pixabay.com/photo-81423/");
+}
+
+h3 {
+    text-align: right;
+
+}
+
+* { font-family: Georgia;
+    font-size: 10px;
+
+}
+
+i, strong, a, p {
+    font-size: 18px;
+
+}
+
+img {height: 40%;
+    width: 40%;
+    align-content: right;
+
+}
+
+li {font-size: 15px;
+    color: hsl(235, 30%, 50%);
+}
+
+h3 {color:green;
+    font-size:30px;
+}
+
+li.calm {color:black;
+
+}
+
+figcaption {color:blue;
+            font-size: 14px;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    right:0;
+    margin: 10px auto 10px auto;
+
+}
+
+iframe {text-align: right;}
+
+body {background-color: grey;}
+
+b {font-size: 20px}
+
+.jellomold {align-items: right;
+
+}
+
+
+
+
+
+
